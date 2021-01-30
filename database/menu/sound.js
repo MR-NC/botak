@@ -30,7 +30,7 @@ const sound = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}tts* <language code|text>
    ┃ *Desc* : Google Text To Speach
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Developer © ${botName}
 ◪ *SOUND*
   │
   └─ ❏ ${prefix}tts`
